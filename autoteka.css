@@ -1,0 +1,140 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.fon{
+    font-size: 13px;
+    background-color: #E3740E;
+}
+.fon-1{
+    font-size: 16px;
+}
+.num:hover{
+    color: #E3740E;
+}
+.bg-img{
+    background-image: url(/img/test-1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;}
+.find{
+    font-size: 72px;}
+.find-1{
+    font-size: 65px;}
+@media screen and (max-width: 480px) {
+    .quri {
+      font-size: 40px;}}
+.black-1{
+    background-color: black;
+    color: white;}
+.black-1:hover{
+    background-color: white;
+    color:black ;}
+.bor{
+    border: 1px solid orangered;
+    width: 55px;}
+.bor-1{
+    border: 1px solid orangered;
+    width: 15px;}
+.sel{
+    border:1px solid darkgray;
+    font-size: 12px;}
+.sel-1{
+    border-right: 1px solid darkgray ;
+    border-bottom: none;
+    border-left: none;
+    border-top: none;}
+.rang{
+    width: 300px;}
+.color{
+    color: white;
+    background-color: orangered;}
+.color:hover{
+    background-color: black;}
+.size{
+    font-size: 12px;}
+.tra{
+    color: black;
+    background-color: white;}
+.tra:hover{
+    background-color: black;
+    color: white;
+    transform: translatey(-40px);
+    transition-duration: 0.5s;}
+.right-1{
+    border-right:1px solid grey;
+    font-size: 15px;}
+    @media screen and (max-width: 480px) {
+        .right-1 {
+          font-size: 10px; }}
+.right{
+    border-right:1px solid grey;
+    font-size: 15px;}
+.wid{
+    width: 110px;
+    font-size: 20px;
+    background-color: #E3740E;
+    position: absolute;
+    left: px;}
+.pos{
+position: relative;}
+.are{
+    background-color: #E3740E;
+    color: white;}
+.are-1{
+    background-color: #E3740E;
+    color: white;
+}
+.are-1:hover{
+    background-color:darkturquoise;}
+.are-2{
+    color: white; 
+    background-color:blue;}
+.are-2:hover{
+    background-color: #E3740E;}
+.abso{
+    position: absolute;}
+.num-1:hover{
+    background-color:orangered}
+.car{
+    background-image: url(../car-background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;}
+.icon{
+    color:#E3740E;}
+.sec{
+ color: grey;}
+.bor-hov{
+    border:1px solid grey}
+.bor-hov{
+    background-color: black;
+    color: white;}
+.bor-hov:hover{
+     background-color: #E3740E;
+     color: white;}
+.bor-hov:hover .icon{
+    color: white;}
+
+.bor-hov:hover .sec{
+    color: white;
+}
+.relat{
+    position: relative;
+    top: 50px;
+}
+.grou{
+    background-color: #E3740E;
+}
+@media screen and (max-width: 480px) {
+    .med {
+      font-size: 10px;}}
+  .dan{
+    background-color: #E3740E;
+ }
+  .num-2{
+    color: grey;
+  }
+  .num-2:hover{
+   color: #E3740E;
+  }
